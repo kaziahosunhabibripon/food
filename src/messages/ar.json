@@ -1,0 +1,383 @@
+{
+  "TabTitles": {
+    "title": "مطعم إكسيلنسي للحلويات والتموين | توصيل الطعام الحلو"
+  },
+
+  "Topbar": {
+    "location": "الرشيدية 1 - عجمان - الإمارات العربية المتحدة",
+    "followUs": "تابعنا"
+  },
+  "Hero": {
+    "welcome": "مرحبًا بك في",
+    "second": "إكسلنسي",
+    "headline": "طعام لذيذ وتجربة أكل رائعة",
+    "subline": "نقدم الطعام، والتناغم، والابتسامة",
+    "smile": "لكل شخص.",
+    "button": "ابحث عن الأطعمة",
+    "watch": "شاهد مقاطع الفيديو"
+  },
+  "Country": {
+    "title": "ملكنا",
+    "subtitle": "شائع",
+    "secondarySubTitle": "فئة"
+  },
+  "Topselling": {
+    "title": "أفضل",
+    "subtitle": "البالغات",
+    "secondarySubTitle": "الأطعمة",
+    "dialog": "أعلى البيع"
+  },
+  "All": {
+    "title": "الجميع",
+    "subtitle": "الأطعمة",
+    "secondarySubTitle": "أغراض"
+  },
+
+  "filterOptions": {
+    "cat1": "بنغلاديشي",
+    "cat2": "هندي",
+    "cat3": "عربي",
+    "cat4": "باكستاني",
+    "cat": "الجميع"
+  },
+
+  "reset": {
+    "reset": "إعادة تعيين"
+  },
+  "food": {
+    "secondaryTitle": "الأطباق الخاصة اليوم"
+  },
+  "popular": {
+    "title": "معظم",
+    "subtitle": "شائع",
+    "secondarySubTitle": "الأطعمة"
+  },
+
+  "Recently": {
+    "title": "حديثاً",
+    "subtitle": "منظر",
+    "secondarySubTitle": "الأطعمة",
+    "dialog": "عرض مؤخرا"
+  },
+
+  "offer": {
+    "type": "عروض الجمعة",
+    "amount": "خصومات 50 ٪ على",
+    "items": "المواد الغذائية.",
+    "title": "النظام الآن"
+  },
+
+  "hurryUp": {
+    "title": "أسبوعي",
+    "subtitle": "تخفيض",
+    "secondarySubTitle": "الأطعمة",
+    "dialog": "عجل الصفقات",
+    "cart": "أضف إلى السلة",
+    "currency": "درهم",
+    "offer": "عروض ينتهي",
+    "Seconds": "ثوانٍ",
+    "Minutes": "دقائق",
+    "Hours": "ساعات",
+    "Days": "أيام",
+    "loading": "تحميل..."
+  },
+  "reserve": {
+    "title": "احتياطي",
+    "title1": "طاولة",
+    "mainTitle": "نتطلع إلى رؤيتك",
+    "button": "كتاب الآن",
+    "guestSingular": "ضيف",
+    "guestPlural": "الضيوف",
+    "selectGuest": "لا ضيف",
+    "fullName": "الاسم الكامل",
+    "phone": "الهاتف لا",
+    "message": "أخبرنا المزيد عن رسالتك الخاصة"
+  },
+  "popularFood": {
+    "title": "معظم",
+    "subtitle": "إيقاف",
+    "secondarySubTitle": "فئات",
+    "try": "جربه قبل أن يختفي"
+  },
+
+  "stats": {
+    "new": {
+      "label": "جديد",
+      "subLabel": "أطباق"
+    },
+    "total": {
+      "label": "الإجمالي",
+      "subLabel": "العملاء المخدومين"
+    },
+    "unique": {
+      "label": "فريد",
+      "subLabel": "أطباق مُتذوَّقة"
+    },
+    "hard": {
+      "label": "سعيد",
+      "subLabel": "الذواقة السعداء"
+    }
+  },
+
+  "brand": {
+    "title": "شركاؤنا",
+    "subtitle": "القيمون",
+    "secondarySubTitle": "الشركاء"
+  },
+  "footer": {
+    "description": "مطعم إكسلنسي كيتيرنج يقدم الحلويات بإتقان، مكملًا قطع اللحم الطرية ليخلق تناغمًا لذيذًا من النكهات والقوام.",
+    "quickLinks": "روابط سريعة",
+    "groups": "المجموعات",
+    "contactUs": "اتصل بنا",
+    "workinghour": "السبت-الجمعة 9 صباحًا - 12 منتصف الليل",
+    "emailPlaceholder": "بريد إلكتروني",
+    "agreePrivacy": "أوافق على سياسة الخصوصية",
+    "developedBy": "تم التطوير بواسطة:",
+    "copyright": "حقوق النشر © 2025 إكسلنسي كاترينغ جميع الحقوق محفوظة.",
+    "terms": "الشروط والأحكام",
+    "privacy": "سياسة الخصوصية",
+    "noGroups": "لا توجد مجموعات.",
+    "rapid": "رابيد"
+  },
+  "aboutus": {
+    "about": "معلومات عنا",
+    "story": "عن",
+    "story1": "نحن",
+    "values": "قيمنا",
+    "values1": "الرؤية",
+    "team": "تعرف على",
+    "team1": "فريق",
+    "team2": "العمل",
+    "testimonials": "ماذا يقول عملاؤنا",
+    "cta_title": "هل أنت مستعد لتجربة التميز؟",
+    "cta_subtitle": "انضم إلينا في رحلتنا الطهوية واكتشف مطاعم محلية مذهلة.",
+    "order_now": "اطلب الآن",
+    "growing_years": "سنوات النمو",
+    "type_of_products": "أنواع المنتجات",
+    "sales_outlets": "نقاط البيع",
+    "annual_sales": "المبيعات السنوية",
+    "quality": "الجودة",
+    "community": "المجتمع",
+    "innovation": "الابتكار",
+    "quality_desc": "نحن ملتزمون بتقديم وجبات وخدمات عالية الجودة.",
+    "community_desc": "ندعم المطاعم المحلية ونعزز روح المجتمع.",
+    "innovation_desc": "نبتكر باستمرار لتحسين تجربة توصيل الطعام.",
+    "title": "حول",
+    "subtitle": "التميز",
+    "componentTitle": "معلومات عنا",
+    "writer": "أليكس طومسون، عاشق الطعام",
+    "quoto": "لقد غيّرت إكسيلنسي تجربتي في تناول الطعام. تنوع وجودة الطعام المتاحين لا مثيل لهما، وخدمتهم دائمًا على أعلى مستوى!"
+  },
+  "menu": {
+    "componentTitle": "القائمة",
+    "title": "القائمة"
+  },
+  "companybrand": {
+    "brandName": "التميز للتموين والمطاعم والحلويات"
+  },
+  "gallery": {
+    "title": "معرض الصور",
+    "componentTitle": "معرض الصور",
+    "discoverExcellency": "اكتشف أصناف طعام التميز",
+    "title1": "اكتشف",
+    "subtitle": "لدينا",
+    "secondarySubTitle": "الفئة"
+  },
+  "contactus": {
+    "title": "اتصل",
+    "subtitle": "بنا",
+    "componentTitle": "اتصل بنا"
+  },
+  "contactForm": {
+    "getIn": "تواصل",
+    "touch": "معنا",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "guest": "عدد الضيوف",
+    "guest1": "ضيف واحد",
+    "guest2": "ضيفان",
+    "guest3": "3 ضيوف",
+    "guest4plus": "4+ ضيوف",
+    "message": "اكتب رسالتك هنا...",
+    "terms": "شاركنا في صياغة رأس المال المبدئي. طور تجربة المستخدم بشكل تدريجي",
+    "submit": "اطلب طعامك",
+    "submitting": "جاري الإرسال...",
+    "error": "Something went wrong. Please try again later."
+  },
+  "product": {
+    "currency": "د.إ",
+    "addToCart": "أضف إلى السلة",
+    "share": "مشاركة",
+    "shop": "تسوق",
+    "excellency": "الامتياز",
+    "quantity": "الكمية"
+  },
+
+  "Cart": {
+    "YourCart": "سلة التسوق",
+    "Empty": "سلة التسوق فارغة",
+    "Currency": "د.إ",
+    "Total": "الإجمالي",
+    "ClearCart": "مسح السلة",
+    "Proceed": "الانتقال للدفع",
+    "Close": "إغلاق",
+    "Remove": "إزالة",
+    "Removing": "جاري الإزالة...",
+    "Removed": "تمت إزالة المنتج من السلة",
+    "RemoveError": "فشل في إزالة المنتج",
+    "QuantityUpdated": "تم تحديث الكمية",
+    "UpdateFailed": "فشل تحديث الكمية",
+    "Cleared": "تم مسح السلة بنجاح"
+  },
+  "login": {
+    "welcome": "مرحباً",
+    "back": "عودة",
+    "loginTitle": "تسجيل الدخول",
+    "signIn": "سجّل الدخول إلى",
+    "account": "حسابك",
+    "email": "البريد الإلكتروني",
+    "emailInvalid": "البريد الإلكتروني غير صالح",
+    "password": "كلمة المرور",
+    "passwordHint": "يجب أن تكون كلمة المرور أكثر من ستة أحرف.",
+    "login": "تسجيل الدخول",
+    "loginLoading": "جاري تسجيل الدخول...",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "register": "سجّل",
+    "emailPlaceholder": "أنت@مثال.كوم"
+  },
+  "register": {
+    "welcome": "مرحباً",
+    "subtitle": "صاحب السمو",
+    "secondarySubtitle": "في",
+    "register": "تسجيل",
+    "createAccount": "إنشاء حسابك",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "emailInvalid": "البريد الإلكتروني غير صالح",
+    "password": "كلمة المرور",
+    "passwordHint": "يجب أن تتكون كلمة المرور من أكثر من ستة أحرف.",
+    "signup": "تسجيل",
+    "saving": "جارٍ الحفظ...",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "login": "تسجيل الدخول",
+    "namePlaceholder": "أدخل اسمك",
+    "emailPlaceholder": "أنت@مثال.كوم"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "pageSubTitle": "",
+    "componentTitle": "إتمام الشراء",
+    "contactInformation": "معلومات الاتصال",
+    "contactDescription": "سنستخدم هذا البريد الإلكتروني لإرسال تفاصيل وتحديثات حول طلبك.",
+    "guestCheckoutNote": "أنت تقوم بعملية الشراء كضيف حالياً.",
+    "createAccount": "أنشئ حسابًا مع Excellency - للأطعمة والمطاعم",
+    "email": "عنوان البريد الإلكتروني",
+    "billingAddress": "عنوان الفاتورة",
+    "billingDescription": "أدخل عنوان الفاتورة الذي يطابق طريقة الدفع الخاصة بك.",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "address": "العنوان",
+    "apartment": "شقة، جناح، إلخ (اختياري)",
+    "city": "المدينة",
+    "state": "الولاية/المقاطعة",
+    "postalCode": "الرمز البريدي (اختياري)",
+    "phone": "رقم الهاتف",
+    "paymentOptions": "خيارات الدفع",
+    "cashOnDelivery": "الدفع عند الاستلام",
+    "creditCard": "بطاقة ائتمان",
+    "termsNote": "بالمتابعة في الشراء، فإنك توافق على",
+    "terms": "الشروط والأحكام",
+    "privacy": "سياسة الخصوصية",
+    "returnToCart": "← العودة إلى الصفحة الرئيسية",
+    "placeOrder": "تأكيد الطلب",
+    "orderSummary": "ملخص الطلب",
+    "addCoupon": "أضف كوبون",
+    "couponCodePlaceholder": "رمز الكوبون",
+    "subtotal": "المجموع الفرعي",
+    "total": "الإجمالي",
+    "Currency": "د.إ"
+  },
+  "tracking": {
+    "title": "تتبع",
+    "subtitle": "الطلب",
+    "componentTitle": "التتبع",
+    "recentOrders": "الطلبات الأخيرة",
+    "orderId": "رقم الطلب",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "total": "الإجمالي",
+    "progress": "التقدم",
+    "action": "الإجراء",
+    "viewDetails": "عرض التفاصيل",
+    "orderDetails": "تفاصيل الطلب",
+    "orderDate": "تاريخ الطلب",
+    "estimatedDelivery": "التوصيل المتوقع",
+    "orderItems": "عناصر الطلب",
+    "qty": "الكمية",
+    "deliveryAddress": "عنوان التوصيل",
+    "Currency": "د.إ",
+
+    "OrderReceived": "تم استلام الطلب",
+    "Processing": "جاري المعالجة",
+    "Completed": "مكتمل",
+    "Delivered": "تم التوصيل"
+  },
+  "profile": {
+    "myOrders": "قائمة طلباتي",
+    "help": "مساعدة",
+    "logout": "تسجيل الخروج"
+  },
+  "noItems": {
+    "noItems": "لم يتم العثور على عناصر",
+    "for": "لـ"
+  },
+  "subscribe": {
+    "title": "خصم 20٪ على أول طلب لك",
+    "subtitle": "اشترك معنا لتفعيل خصمك والاستمتاع بطعامنا"
+  },
+  "agree": {
+    "agreeText": "أوافق على سياسة الخصوصية",
+    "subscribeButton": "اشترك",
+    "emailPlaceholder": "بريد إلكتروني"
+  },
+  "singleFood": {
+    "componentTitle": "عنصر طعام فردي",
+    "sale": "تخفيض!",
+    "title": "التفاصيل",
+    "viewAll": "عرض جميع المنتجات"
+  },
+  "customerReviews": {
+    "title": "آراء العملاء",
+    "subtitle": "التقييمات",
+    "secondarySubTitle": "نموذج المراجعة",
+    "reviewTtile": "يرجى كتابة مراجعة",
+    "reviewIn": "مراجعتك",
+    "rating": "تقييمك",
+    "submit": "إرسال المراجعة",
+    "noReview": "لم يتم العثور على أي مراجعات لـ",
+    "Rfor": "مراجعات لـ"
+  },
+  "wishList": {
+    "title": "خاصتي",
+    "subtitle": "قائمة",
+    "secondarySubTitle": "الرغبات",
+    "price": "السعر",
+    "addToCart": "أضف إلى السلة",
+    "remove": "إزالة",
+    "currency": "د.إ",
+    "no": "حاليًا ليس لديك أي عناصر قائمة أمنيات في الوقت الحالي."
+  },
+
+  "privacy": {
+    "title": "الخصوصية",
+    "subtitle": "السياسة",
+    "componentTitle": "سياسة الخصوصية"
+  },
+  "terms": {
+    "title": "الشروط و",
+    "subtitle": "الأحكام",
+    "componentTitle": "الشروط والأحكام"
+  }
+}

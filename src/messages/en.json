@@ -1,0 +1,370 @@
+{
+  "TabTitles": {
+    "title": "Excellency Catering Restaurant Sweets | Sweet Food Delivery"
+  },
+
+  "Topbar": {
+    "location": "Al Rashidiya 1 - Ajman - United Arab Emirates",
+    "followUs": "Follow Us"
+  },
+  "Hero": {
+    "welcome": "WELCOME TO",
+    "second": "EXCELLENCY",
+    "headline": "Delicious Food & Wonderful Eating Experience",
+    "subline": "We Serve Food, Harmony, & Smile",
+    "smile": "for Everyone.",
+    "button": "find foods",
+    "watch": "Watch Videos"
+  },
+  "Country": {
+    "title": "Our",
+    "subtitle": "Popular",
+    "secondarySubTitle": "Category"
+  },
+  "Topselling": {
+    "title": "Best",
+    "subtitle": "Sellings",
+    "secondarySubTitle": "Foods",
+    "dialog": "Top Selling",
+    "noItems": "No items found",
+    "for": "for"
+  },
+  "All": {
+    "title": "All",
+    "subtitle": "Foods",
+    "secondarySubTitle": "Items"
+  },
+  "filterOptions": {
+    "cat1": "Bangladeshi",
+    "cat2": "Indian",
+    "cat3": "Arabian",
+    "cat4": "Pakistani",
+    "cat": "All"
+  },
+  "reset": { "reset": "Reset" },
+  "food": {
+    "secondaryTitle": "Today's special Dishes"
+  },
+  "popular": {
+    "title": "Most",
+    "subtitle": "Popular",
+    "secondarySubTitle": "Foods"
+  },
+  "Recently": {
+    "title": "Recently",
+    "subtitle": "View",
+    "secondarySubTitle": "Foods",
+    "dialog": "Recently View"
+  },
+  "offer": {
+    "type": "FRIDAY OFFERs",
+    "amount": "Discounts 50% On",
+    "items": "Food items.",
+    "title": "ORDER NOW"
+  },
+  "hurryUp": {
+    "title": "Weekly",
+    "subtitle": "Discount",
+    "secondarySubTitle": "Foods",
+    "dialog": "Hurry Up Deals",
+    "cart": "ADD TO CART",
+    "currency": "AED",
+    "offer": "Offers ends in",
+    "Seconds": "Seconds",
+    "Minutes": "Minutes",
+    "Hours": "Hours",
+    "Days": "Days",
+    "loading": "Loading..."
+  },
+  "reserve": {
+    "title": "Reserve",
+    "title1": "a Table",
+    "mainTitle": "We are looking forward to seeing you",
+    "button": "Book Now",
+    "guestSingular": "Guest",
+    "guestPlural": "Guests",
+    "selectGuest": "No of Guest",
+    "fullName": "Full Name",
+    "phone": "Phone No",
+    "message": "Tell Us More About Your Special Message"
+  },
+  "popularFood": {
+    "title": "Most",
+    "subtitle": "Off",
+    "secondarySubTitle": "Categories",
+    "try": "Try It Before It's Gone"
+  },
+
+  "stats": {
+    "new": {
+      "label": "NEW",
+      "subLabel": "DISHES"
+    },
+    "total": {
+      "label": "TOTAL",
+      "subLabel": "CUSTOMRES SERVED"
+    },
+    "unique": {
+      "label": "UNIQUE",
+      "subLabel": "DISHES TASTED"
+    },
+    "hard": {
+      "label": "HARD",
+      "subLabel": "HAPPY FOODIES"
+    }
+  },
+  "brand": {
+    "title": "Our",
+    "subtitle": "Valuable",
+    "secondarySubTitle": "Partner"
+  },
+  "footer": {
+    "description": "Excellency Catering Restaurant Serves Sweets perfectly, complementing tender cuts of meat to create a delicious harmony of flavors and textures.",
+    "quickLinks": "Quick Links",
+    "groups": "Groups",
+    "contactUs": "Contact Us",
+    "workinghour": "Saturday - Friday 9 AM - 12 AM",
+    "emailPlaceholder": "Email",
+    "agreePrivacy": "I agree with the Privacy Policy",
+    "developedBy": "Developed by:",
+    "copyright": "Copyright © 2025 Excellency Catering Restaurant Sweets All Rights Reserved.",
+    "terms": "Terms Condition",
+    "privacy": "Privacy Policy",
+    "noGroups": "No groups found.",
+    "rapid": "Rapid"
+  },
+  "aboutus": {
+    "about": "About Us",
+    "story": "About",
+    "story1": "Us",
+    "values": "Our",
+    "values1": "Values",
+    "team": "Meet",
+    "team1": "Our",
+    "team2": "Team",
+    "testimonials": "What Our Customers Say",
+    "cta_title": "Ready to Experience Excellency?",
+    "cta_subtitle": "Join us in our culinary journey and discover amazing local restaurants.",
+    "order_now": "Order Now",
+    "growing_years": "Growing Years",
+    "type_of_products": "Type of Products",
+    "sales_outlets": "Sales Outlets",
+    "annual_sales": "Annual Sales",
+
+    "title": "About",
+    "subtitle": "Excellency",
+    "componentTitle": "About us",
+    "writer": "Alex Thompson, Food Enthusiast",
+    "quoto": "Excellency has transformed my dining experience. The variety and quality of food available is unmatched, and their service is lways top-notch"
+  },
+  "menu": {
+    "componentTitle": "Menu",
+    "title": "Menu"
+  },
+  "companybrand": {
+    "brandName": "Excellency Catering Restaurant Sweets"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "componentTitle": "Gallery",
+    "discoverExcellency": "Discover Excellency Food Items",
+    "title1": "Discover",
+    "subtitle": "Our",
+    "secondarySubTitle": "category"
+  },
+  "contactus": {
+    "title": "Contact",
+    "subtitle": "us",
+    "componentTitle": "Contact us"
+  },
+  "contactForm": {
+    "getIn": "Get In",
+    "touch": "Touch",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "guest": "Guest",
+    "guest1": "1 Guest",
+    "guest2": "2 Guests",
+    "guest3": "3 Guests",
+    "guest4plus": "4+ Guests",
+    "message": "Write your message here...",
+    "terms": "Collaboratively formulate principle capital. Progressively evolve user",
+    "submit": "Order your food",
+    "submitting": "Submitting...",
+    "error": "Something went wrong. Please try again later."
+  },
+  "product": {
+    "currency": "AED",
+    "addToCart": "Add to Cart",
+    "share": "Share",
+    "shop": "shop",
+    "excellency": "Excellency",
+    "quantity": "Quantity"
+  },
+  "Cart": {
+    "YourCart": "Your Cart",
+    "Empty": "Your cart is empty",
+    "Currency": "AED",
+    "Total": "Total",
+    "ClearCart": "Clear Cart",
+    "Proceed": "Proceed to checkout",
+    "Close": "Close",
+    "Remove": "Remove",
+    "Removing": "Removing...",
+    "Removed": "Removed item from cart",
+    "RemoveError": "Failed to remove item",
+    "QuantityUpdated": "Quantity updated",
+    "UpdateFailed": "Item update failed",
+    "Cleared": "Cart cleared successfully"
+  },
+
+  "login": {
+    "welcome": "Welcome",
+    "back": "back",
+    "loginTitle": "Login",
+    "signIn": "Sign in to your",
+    "account": "account",
+    "email": "Email",
+    "emailInvalid": "Email is invalid",
+    "password": "Password",
+    "passwordHint": "Password should be more than six characters.",
+    "login": "Login",
+    "loginLoading": "Logging in...",
+    "dontHaveAccount": "Don't have an account?",
+    "register": "Register",
+    "emailPlaceholder": "you@example.com"
+  },
+  "register": {
+    "welcome": "Welcome",
+    "subtitle": "Excellency",
+    "secondarySubtitle": "to",
+    "register": "Register",
+    "createAccount": "Create your account",
+    "name": "Name",
+    "email": "Email",
+    "emailInvalid": "Email is invalid",
+    "password": "Password",
+    "passwordHint": "Password should be more than six characters.",
+    "signup": "Sign up",
+    "saving": "Saving...",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "you@example.com"
+  },
+  "checkout": {
+    "title": "Check",
+    "pageSubTitle": "out",
+    "componentTitle": "Checkout",
+    "contactInformation": "Contact Information",
+    "contactDescription": "We'll use this email to send you details and updates about your order.",
+    "guestCheckoutNote": "You are currently checking out as a guest.",
+    "createAccount": "Create an account with Excellency - Food & Restaurant",
+    "email": "Email Address",
+    "billingAddress": "Billing Address",
+    "billingDescription": "Enter the billing address that matches your payment method.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "address": "Address",
+    "apartment": "Apartment, suite, etc. (optional)",
+    "city": "City",
+    "state": "State/County",
+    "postalCode": "Postal code (optional)",
+    "phone": "Phone Number",
+    "paymentOptions": "Payment Options",
+    "cashOnDelivery": "Cash on Delivery",
+    "creditCard": "Credit Card",
+    "termsNote": "By proceeding with your purchase you agree to our",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "returnToCart": "← Return to home",
+    "placeOrder": "Place Order",
+    "orderSummary": "Order summary",
+    "addCoupon": "Add a coupon",
+    "couponCodePlaceholder": "Coupon code",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "Currency": "AED"
+  },
+  "tracking": {
+    "title": "Track",
+    "subtitle": "Order",
+    "componentTitle": "Tracking",
+    "recentOrders": "Recent Orders",
+    "orderId": "Order ID",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "progress": "Progress",
+    "action": "Action",
+    "viewDetails": "View Details",
+    "orderDetails": "Order Details",
+    "orderDate": "Order Date",
+    "estimatedDelivery": "Estimated delivery",
+    "orderItems": "Order Items",
+    "qty": "Qty",
+    "deliveryAddress": "Delivery Address",
+    "Currency": "AED",
+    "OrderReceived": "Order Received",
+    "Processing": "Processing",
+    "Completed": "Completed",
+    "Delivered": "Delivered"
+  },
+  "profile": {
+    "myOrders": "My Order List",
+    "help": "Help",
+    "logout": "Logout"
+  },
+  "noitems": {
+    "noItems": "No items found",
+    "for": "for"
+  },
+  "subscribe": {
+    "title": "20% Off your First order",
+    "subtitle": "Subscribe us to unlock your discount to enjoy our food"
+  },
+  "agree": {
+    "agreeText": "I agree to the privacy policy",
+    "subscribeButton": "Subscribe",
+    "emailPlaceholder": "Email"
+  },
+  "singleFood": {
+    "componentTitle": "Single food",
+    "sale": "Sale!",
+    "title": "Details",
+    "viewAll": "View All Products"
+  },
+  "customerReviews": {
+    "title": "Customer",
+    "subtitle": "Reviews",
+    "secondarySubTitle": "Form",
+    "reviewTtile": "Please post a Review",
+    "reviewIn": "Your Review",
+    "rating": "Your Rating",
+    "submit": "Submit Review",
+    "noReview": "No reviews found for",
+    "Rfor": "Reviews for"
+  },
+  "wishList": {
+    "title": "My",
+    "subtitle": "Wish",
+    "secondarySubTitle": "List",
+    "price": "Price",
+    "addToCart": "Add to Cart",
+    "remove": "Remove",
+    "currency": "AED",
+    "no": "Currently You don’t have any wishlist items right now."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "subtitle": "Policy",
+    "componentTitle": "Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms &",
+    "subtitle": "Conditions",
+    "componentTitle": "Terms & Conditions"
+  }
+}
